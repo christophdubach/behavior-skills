@@ -1,0 +1,3 @@
+# Strategisches Ziel «To Be the Leader in Experience Excellence»
+
+Neue Angebots- und Pricing-Modelle in der aktuellen Vibe-[Everything]-Phase sind essenziell. Super, dass wir das sofort angehen. Aber irgendwie kommt mir das Wort «Qualität» in dieser Unterhaltung etwas zu kurz. Denn mit «Velocity» und «Acceleration» allein wird die im strategischen Ziel geforderte «Excellence» wohl kaum erreicht werden ...

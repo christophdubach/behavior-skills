@@ -1,0 +1,18 @@
+{
+  "name": "behavior-skills",
+  "description": "Behavior Skills — Reusable skill library for UX, frontend, accessibility, and writing workflows.",
+  "version": "1.0.2",
+  "author": {
+    "name": "Christoph Dubach",
+    "email": "christoph@dubach.dev"
+  },
+  "homepage": "https://github.com/christophdubach/behavior-skills",
+  "repository": "https://github.com/christophdubach/behavior-skills",
+  "license": "MIT",
+  "commands": "./.claude/commands/cdbs",
+  "skills": "./skills",
+  "agents": [
+    "./skills/profiles/ux-review/SKILL.md",
+    "./skills/profiles/frontend-discovery/SKILL.md"
+  ]
+}
